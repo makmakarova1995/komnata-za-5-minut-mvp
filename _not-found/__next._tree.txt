@@ -1,0 +1,4 @@
+:HL["/komnata-za-5-minut-mvp/_next/static/media/4c9affa5bc8f420e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/komnata-za-5-minut-mvp/_next/static/media/875ae681bfde4580-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/komnata-za-5-minut-mvp/_next/static/css/25d6126d28de23c6.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"X3Np76yk-J7JegIDViJZr"}

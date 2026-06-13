@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[7121,[],""]
+3:I[4581,[],""]
+:HL["/komnata-za-5-minut-mvp/_next/static/css/25d6126d28de23c6.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/komnata-za-5-minut-mvp/_next/static/css/25d6126d28de23c6.css","precedence":"next"}]],["$","html",null,{"lang":"ru","className":"__variable_affdf7 h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","header",null,{"className":"w-full border-b border-[var(--color-line)] px-4 py-3 md:py-3.5","children":["$","p",null,{"className":"mx-auto max-w-3xl text-center text-[19px] font-bold tracking-tight text-[var(--color-ink)] md:text-[26px]","children":["Соберите мебель для комнаты"," ",["$","span",null,{"className":"text-[var(--color-violet)]","children":"за 5 минут"}]]}]}],["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"X3Np76yk-J7JegIDViJZr"}
